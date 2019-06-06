@@ -1,0 +1,1 @@
+{"index.js":"const s = [5, 7, 2];\nfunction editInPlace() {\n  \"use strict\";\n  // change code below this line\ns[0]=2;\ns[1]=5;\ns[2]=7;\n  // s = [2, 5, 7]; <- this is invalid\n\n  // change code above this line\n}\neditInPlace();"}
