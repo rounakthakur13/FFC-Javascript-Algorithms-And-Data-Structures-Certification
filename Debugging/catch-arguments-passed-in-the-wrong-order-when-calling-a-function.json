@@ -1,0 +1,1 @@
+{"index.js":"function raiseToPower(base, eexp) {\n  return Math.pow(base, exp);\n}\n\nlet base = 2;\nlet exp = 3;\nlet power = raiseToPower(base,exp);\nconsole.log(power);"}
