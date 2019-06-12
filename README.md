@@ -1,4 +1,4 @@
-#Spolier Alert
+#Spolier Alert use this only if you're having hard time finding answers
 # Javascript-Algorithms-And_Data_Structures_Certification
 All JSON files from FreeCodeCamp Challenges that i've completed
 
